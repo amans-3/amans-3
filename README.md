@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Redux<br><br><br>👨‍💻 All of my projects are available at https://github.com/amans-3/all-projects.git<br><br>📝 I regularly write articles on https://amans3.hashnode.dev<br><br>💬 Ask me about html, css, tailwind_css, javascript, react, git<br><br>📫 How to reach me amans.me.3@gmail.com<br>
+<br>🌱 I’m currently learning Redux<br><br>👨‍💻 All of my projects are available at https://github.com/amans-3/all-projects.git<br><br>📝 I regularly write articles on https://amans3.hashnode.dev<br><br>💬 Ask me about html, css, tailwind_css, javascript, react, git<br><br>📫 How to reach me amans.me.3@gmail.com<br>
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amans_3) 
 # 💻 Tech Stack:
